@@ -91,3 +91,6 @@ By avoiding GPL-licensed components and adhering to the LGPL requirements, you c
 - Some modules have both LGPL and GPL components, so ensure you are using only the LGPL parts if you need to comply with the LGPL licensing terms.
 - Always refer to the official Qt documentation for the most up-to-date information on licensing. The licensing terms can change, and it's important to verify the current status of the modules you are using.
 
+Harsh Kumar Narula
+<harsh.narula@iitbombay.org>
+
