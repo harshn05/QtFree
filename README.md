@@ -54,3 +54,40 @@ These modules are typically licensed under GPL or commercial licenses and should
 - **No Modifications:** Avoid modifying the Qt source code. If you do need to make modifications, be prepared to release those modifications under the same LGPL license.
 
 By avoiding GPL-licensed components and adhering to the LGPL requirements, you can use Qt in your closed-source project without any licensing fees.
+
+### List of Qt Modules Available Under LGPL:
+
+1. **Qt Core** (`QtCore`)
+2. **Qt GUI** (`QtGui`)
+3. **Qt Widgets** (`QtWidgets`)
+4. **Qt Network** (`QtNetwork`)
+5. **Qt QML** (`QtQml`)
+6. **Qt Quick** (`QtQuick`)
+7. **Qt SQL** (`QtSql`)
+8. **Qt Test** (`QtTest`)
+9. **Qt XML** (`QtXml`)
+10. **Qt Concurrent** (`QtConcurrent`)
+11. **Qt DBus** (`QtDBus`)
+12. **Qt Print Support** (`QtPrintSupport`)
+13. **Qt Sensors** (`QtSensors`)
+14. **Qt Serial Port** (`QtSerialPort`)
+15. **Qt Multimedia** (`QtMultimedia`)
+16. **Qt Multimedia Widgets** (`QtMultimediaWidgets`)
+17. **Qt OpenGL** (`QtOpenGL`)
+18. **Qt WebSockets** (`QtWebSockets`)
+19. **Qt Positioning** (`QtPositioning`)
+20. **Qt Bluetooth** (`QtBluetooth`)
+21. **Qt NFC** (`QtNfc`)
+22. **Qt Speech** (`QtSpeech`)
+23. **Qt WebChannel** (`QtWebChannel`)
+24. **Qt SVG** (`QtSvg`)
+25. **Qt XML Patterns** (`QtXmlPatterns`)
+26. **Qt Help** (`QtHelp`)
+27. **Qt Quick Controls 2** (`QtQuickControls2`)
+28. **Qt Remote Objects** (`QtRemoteObjects`)
+
+### Notes:
+
+- Some modules have both LGPL and GPL components, so ensure you are using only the LGPL parts if you need to comply with the LGPL licensing terms.
+- Always refer to the official Qt documentation for the most up-to-date information on licensing. The licensing terms can change, and it's important to verify the current status of the modules you are using.
+
