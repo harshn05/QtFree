@@ -1,6 +1,6 @@
 ## Using Qt in a Closed-Source Project Without Paying a Fee
 
-To use Qt in a closed-source project without paying a fee, you need to comply with the licensing terms of the open-source version of Qt. Here’s how you can do that:
+To use Qt in a closed-source project without paying a fee, you need to comply with the licensing terms of the LGPL version of Qt. Here’s how you can do that:
 
 ### Use the LGPL Version of Qt
 - Qt is available under the GNU Lesser General Public License (LGPL) version 3, which allows you to use it in proprietary applications under certain conditions.
