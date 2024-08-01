@@ -1,5 +1,9 @@
 ## Using Qt in a Closed-Source Project Without Paying a Fee
 
+Under the GPL license, you are required to publish the entire source code of the application. In contrast, using Qt under the LGPL license allows you to choose your own license for your portion of the code, meaning you can keep your source code confidential, provided you acknowledge the use of Qt.
+
+It is important to note that neither license restricts earning money. Both allow for commercial activities, although with the GPL, you must distribute the source code, enabling clients to compile it themselves. However, the GPL does not obligate you to release the source code to the general public; you can limit distribution to your clients. These are minor details, so do not worry too much about them—opting for the LGPL is advisable.
+
 To use Qt in a closed-source project without paying a fee, you need to comply with the licensing terms of the LGPL version of Qt. Here’s how you can do that:
 
 ### Use the LGPL Version of Qt
